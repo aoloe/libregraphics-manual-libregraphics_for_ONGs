@@ -71,7 +71,7 @@ toc:
         fr: Niveaux
       status:
         fr: à relire
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: La conversion en niveaux de gris
@@ -97,129 +97,129 @@ toc:
       level: 1
       title:
         fr: Inkscape
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Formes de base et lignes
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Création et manipulation de courbes
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Union et intersection de formes
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Ouvrir des PDFs et extraire des éléments
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Couleurs et degradés
-    - directory:
+    - directory: ""
       level: 2
       title:
         en: Snapping
         fr: Repères et noeuds magnétiques
-    - directory:
+    - directory: ""
       level: 2
       title:
         en: Tracing
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Output pour le web
-    - directory:
+    - directory: ""
       level: 1
       title:
         fr: Scribus
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Esquisse et produit final
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Esquisse et produit final
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Le document et la page
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Les repères
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: La palette des propriétés
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Les cadres texte
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: La typographie
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Les cadres d'image
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Formes et éléments vectoriels
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Les listes
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Les modèles, les gabarits et l'album
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Les couleurs
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Produire des PDFs
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: L'interface
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Les racourcis clavier
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: La création d'un papillon
-    - directory:
+    - directory: ""
       level: 1
       title:
         fr: Concepts
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: L'éthique du libre
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Images vectorielles et bitmaps
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Choix des polices de caractère
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: Choix des couleurs
       notes: Also add something about gimp and cmyk (http://fr.flossmanuals.net/initiation-gimp/ch043_mode-colorimetrique) and generally about cmyk
-    - directory:
+    - directory: ""
       level: 2
       title:
         fr: L'output sur papier
