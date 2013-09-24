@@ -5,221 +5,221 @@ toc:
     - directory: introduction
       level: 1
       title:
-        - fr: Introduction
+        fr: Introduction
     - directory: introduction-requirements
       level: 2
       title:
-        - fr: Les pré-requis
-        - de: Voraussetzungen
+        fr: Les pré-requis
+        de: Voraussetzungen
       status:
-        - fr: à relire
+        fr: à relire
     - directory: 
       level: 2
       title:
-        - fr: Mise en route
+        fr: Mise en route
     - directory: introduction-ergonomics
       level: 2
       title:
-        - fr: L'ergonomie de travail
+        fr: L'ergonomie de travail
     - directory: introduction-freesoftware
       level: 2
       title:
-        - fr: Le logiciel libre
+        fr: Le logiciel libre
     - directory: gimp-introduction
       level: 1
       title:
-        - fr: Gimp
+        fr: Gimp
       status:
-        - fr: draft à améliorer
+        fr: draft à améliorer
     - directory: gimp-userinterface
       level: 2
       title:
-        - fr: L'interface
+        fr: L'interface
     - directory: gimp-open_and_save
       level: 2
       title:
-        - fr: Ouvrir et enregistrer une image
+        fr: Ouvrir et enregistrer une image
     - directory: gimp-exporting_and_importing
       level: 2
       title:
-        - fr: Exporter et importer des images
+        fr: Exporter et importer des images
     - directory: gimp-cropping
       level: 2
       title:
-        - fr: Recadrer
+        fr: Recadrer
       status:
-        - fr: à relire
+        fr: à relire
     - directory: gimp-resize
       level: 2
       title:
-        - fr: Changer les dimensions et les DPI
+        fr: Changer les dimensions et les DPI
       status:
-        - fr: à relire + expliquer les DPI
+        fr: à relire + expliquer les DPI
     - directory: gimp-automatic_enhancement
       level: 2
       title:
-        - fr: Corrections automatiques
+        fr: Corrections automatiques
       status:
-        - fr: à relire
+        fr: à relire
     - directory: gimp-brightness_and_contrast
       level: 2
       title:
-        - fr: Luminosité et contraste
+        fr: Luminosité et contraste
     - directory: gimp-color_levels
       level: 2
       title:
-        - fr: Niveaux
+        fr: Niveaux
       status:
-        - fr: à relire
+        fr: à relire
     - directory:
       level: 2
       title:
-        - fr: La conversion en niveaux de gris
+        fr: La conversion en niveaux de gris
       status:
-        - fr: à écrire
+        fr: à écrire
     - directory: gimp-selecting
       level: 2
       title:
-        - fr: Sélectionner et détourer
+        fr: Sélectionner et détourer
       status:
-        - fr: make it much shorter (and eventually separate in two sections)
+        fr: make it much shorter (and eventually separate in two sections)
     - directory: gimp-transparency
       level: 2
       title:
-        - fr: La transparence
+        fr: La transparence
       status:
-        - fr: à améliorer
+        fr: à améliorer
     - directory: gimp-red_eyes
       level: 2
       title:
-        - fr: Supprimer les yeux rouges
+        fr: Supprimer les yeux rouges
     - directory: inkscape
       level: 1
       title:
-        - fr: Inkscape
+        fr: Inkscape
     - directory:
       level: 2
       title:
-        - fr: Formes de base et lignes
+        fr: Formes de base et lignes
     - directory:
       level: 2
       title:
-        - fr: Création et manipulation de courbes
+        fr: Création et manipulation de courbes
     - directory:
       level: 2
       title:
-        - fr: Union et intersection de formes
+        fr: Union et intersection de formes
     - directory:
       level: 2
       title:
-        - fr: Ouvrir des PDFs et extraire des éléments
+        fr: Ouvrir des PDFs et extraire des éléments
     - directory:
       level: 2
       title:
-        - fr: Couleurs et degradés
+        fr: Couleurs et degradés
     - directory:
       level: 2
       title:
-        - en: Snapping
-        - fr: Repères et noeuds magnétiques
+        en: Snapping
+        fr: Repères et noeuds magnétiques
     - directory:
       level: 2
       title:
-        - en: Tracing
+        en: Tracing
     - directory:
       level: 2
       title:
-        - fr: Output pour le web
+        fr: Output pour le web
     - directory:
       level: 1
       title:
-        - fr: Scribus
+        fr: Scribus
     - directory:
       level: 2
       title:
-        - fr: Esquisse et produit final
+        fr: Esquisse et produit final
     - directory:
       level: 2
       title:
-        - fr: Esquisse et produit final
+        fr: Esquisse et produit final
     - directory:
       level: 2
       title:
-        - fr: Le document et la page
+        fr: Le document et la page
     - directory:
       level: 2
       title:
-        - fr: Les repères
+        fr: Les repères
     - directory:
       level: 2
       title:
-        - fr: La palette des propriétés
+        fr: La palette des propriétés
     - directory:
       level: 2
       title:
-        - fr: Les cadres texte
+        fr: Les cadres texte
     - directory:
       level: 2
       title:
-        - fr: La typographie
+        fr: La typographie
     - directory:
       level: 2
       title:
-        - fr: Les cadres d'image
+        fr: Les cadres d'image
     - directory:
       level: 2
       title:
-        - fr: Formes et éléments vectoriels
+        fr: Formes et éléments vectoriels
     - directory:
       level: 2
       title:
-        - fr: Les listes
+        fr: Les listes
     - directory:
       level: 2
       title:
-        - fr: Les modèles, les gabarits et l'album
+        fr: Les modèles, les gabarits et l'album
     - directory:
       level: 2
       title:
-        - fr: Les couleurs
+        fr: Les couleurs
     - directory:
       level: 2
       title:
-        - fr: Produire des PDFs
+        fr: Produire des PDFs
     - directory:
       level: 2
       title:
-        - fr: L'interface
+        fr: L'interface
     - directory:
       level: 2
       title:
-        - fr: Les racourcis clavier
+        fr: Les racourcis clavier
     - directory:
       level: 2
       title:
-        - fr: La création d'un papillon
+        fr: La création d'un papillon
     - directory:
       level: 1
       title:
-        - fr: Concepts
+        fr: Concepts
     - directory:
       level: 2
       title:
-        - fr: L'éthique du libre
+        fr: L'éthique du libre
     - directory:
       level: 2
       title:
-        - fr: Images vectorielles et bitmaps
+        fr: Images vectorielles et bitmaps
     - directory:
       level: 2
       title:
-        - fr: Choix des polices de caractère
+        fr: Choix des polices de caractère
     - directory:
       level: 2
       title:
-        - fr: Choix des couleurs
+        fr: Choix des couleurs
       notes: Also add something about gimp and cmyk (http://fr.flossmanuals.net/initiation-gimp/ch043_mode-colorimetrique) and generally about cmyk
     - directory:
       level: 2
       title:
-        - fr: L'output sur papier
+        fr: L'output sur papier
