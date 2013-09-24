@@ -1,0 +1,1 @@
+- find a way to integrate the introduction to the luminosity into one of the sections

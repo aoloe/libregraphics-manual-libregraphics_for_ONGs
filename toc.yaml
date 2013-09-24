@@ -6,56 +6,90 @@ toc:
       level: 1
       title:
         - fr: Introduction
-    - directory: requirements
+    - directory: introduction-requirements
       level: 2
       title:
         - fr: Les pré-requis
         - de: Voraussetzungen
-    - directory:
+      status:
+        - fr: à relire
+    - directory: 
       level: 2
       title:
         - fr: Mise en route
-    - directory:
+    - directory: introduction-ergonomics
       level: 2
       title:
         - fr: L'ergonomie de travail
-    - directory: gimp
+    - directory: introduction-freesoftware
+      level: 2
+      title:
+        - fr: Le logiciel libre
+    - directory: gimp-introduction
       level: 1
       title:
         - fr: Gimp
-    - directory:
+      status:
+        - fr: draft à améliorer
+    - directory: gimp-userinterface
+      level: 2
+      title:
+        - fr: L'interface
+    - directory: gimp-open_and_save
+      level: 2
+      title:
+        - fr: Ouvrir et enregistrer une image
+    - directory: gimp-exporting_and_importing
+      level: 2
+      title:
+        - fr: Exporter et importer des images
+    - directory: gimp-cropping
       level: 2
       title:
         - fr: Recadrer
-    - directory:
+      status:
+        - fr: à relire
+    - directory: gimp-resize
       level: 2
       title:
-        - fr: La mise à l'échelle
-    - directory:
+        - fr: Changer les dimensions et les DPI
+      status:
+        - fr: à relire + expliquer les DPI
+    - directory: gimp-automatic_enhancement
       level: 2
       title:
-        - fr: La mise à l'échelle et DPI
-    - directory:
+        - fr: Corrections automatiques
+      status:
+        - fr: à relire
+    - directory: gimp-brightness_and_contrast
       level: 2
       title:
-        - fr: La balance des blancs
-    - directory:
+        - fr: Luminosité et contraste
+    - directory: gimp-color_levels
       level: 2
       title:
-        - fr: La courbes des couleurs
+        - fr: Niveaux
+      status:
+        - fr: à relire
     - directory:
       level: 2
       title:
         - fr: La conversion en niveaux de gris
-    - directory:
+      status:
+        - fr: à écrire
+    - directory: gimp-selecting
       level: 2
       title:
-        - fr: Les transparences
-    - directory:
+        - fr: Sélectionner et détourer
+      status:
+        - fr: make it much shorter (and eventually separate in two sections)
+    - directory: gimp-transparency
       level: 2
       title:
-        - fr: Exporter vers JPG, PNG et TIFF
-    - directory:
+        - fr: La transparence
+      status:
+        - fr: à améliorer
+    - directory: gimp-red_eyes
       level: 2
       title:
         - fr: Supprimer les yeux rouges
@@ -184,6 +218,7 @@ toc:
       level: 2
       title:
         - fr: Choix des couleurs
+      notes: Also add something about gimp and cmyk (http://fr.flossmanuals.net/initiation-gimp/ch043_mode-colorimetrique) and generally about cmyk
     - directory:
       level: 2
       title:
