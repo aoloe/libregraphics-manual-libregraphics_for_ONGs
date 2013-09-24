@@ -1,0 +1,190 @@
+title:
+    - en: Libre Graphics for ONGs 
+    - fr: Graphisme libre pour  NGOs 
+toc:
+    - directory: introduction
+      level: 1
+      title:
+        - fr: Introduction
+    - directory: requirements
+      level: 2
+      title:
+        - fr: Les pré-requis
+        - de: Voraussetzungen
+    - directory:
+      level: 2
+      title:
+        - fr: Mise en route
+    - directory:
+      level: 2
+      title:
+        - fr: L'ergonomie de travail
+    - directory: gimp
+      level: 1
+      title:
+        - fr: Gimp
+    - directory:
+      level: 2
+      title:
+        - fr: Recadrer
+    - directory:
+      level: 2
+      title:
+        - fr: La mise à l'échelle
+    - directory:
+      level: 2
+      title:
+        - fr: La mise à l'échelle et DPI
+    - directory:
+      level: 2
+      title:
+        - fr: La balance des blancs
+    - directory:
+      level: 2
+      title:
+        - fr: La courbes des couleurs
+    - directory:
+      level: 2
+      title:
+        - fr: La conversion en niveaux de gris
+    - directory:
+      level: 2
+      title:
+        - fr: Les transparences
+    - directory:
+      level: 2
+      title:
+        - fr: Exporter vers JPG, PNG et TIFF
+    - directory:
+      level: 2
+      title:
+        - fr: Supprimer les yeux rouges
+    - directory: inkscape
+      level: 1
+      title:
+        - fr: Inkscape
+    - directory:
+      level: 2
+      title:
+        - fr: Formes de base et lignes
+    - directory:
+      level: 2
+      title:
+        - fr: Création et manipulation de courbes
+    - directory:
+      level: 2
+      title:
+        - fr: Union et intersection de formes
+    - directory:
+      level: 2
+      title:
+        - fr: Ouvrir des PDFs et extraire des éléments
+    - directory:
+      level: 2
+      title:
+        - fr: Couleurs et degradés
+    - directory:
+      level: 2
+      title:
+        - en: Snapping
+        - fr: Repères et noeuds magnétiques
+    - directory:
+      level: 2
+      title:
+        - en: Tracing
+    - directory:
+      level: 2
+      title:
+        - fr: Output pour le web
+    - directory:
+      level: 1
+      title:
+        - fr: Scribus
+    - directory:
+      level: 2
+      title:
+        - fr: Esquisse et produit final
+    - directory:
+      level: 2
+      title:
+        - fr: Esquisse et produit final
+    - directory:
+      level: 2
+      title:
+        - fr: Le document et la page
+    - directory:
+      level: 2
+      title:
+        - fr: Les repères
+    - directory:
+      level: 2
+      title:
+        - fr: La palette des propriétés
+    - directory:
+      level: 2
+      title:
+        - fr: Les cadres texte
+    - directory:
+      level: 2
+      title:
+        - fr: La typographie
+    - directory:
+      level: 2
+      title:
+        - fr: Les cadres d'image
+    - directory:
+      level: 2
+      title:
+        - fr: Formes et éléments vectoriels
+    - directory:
+      level: 2
+      title:
+        - fr: Les listes
+    - directory:
+      level: 2
+      title:
+        - fr: Les modèles, les gabarits et l'album
+    - directory:
+      level: 2
+      title:
+        - fr: Les couleurs
+    - directory:
+      level: 2
+      title:
+        - fr: Produire des PDFs
+    - directory:
+      level: 2
+      title:
+        - fr: L'interface
+    - directory:
+      level: 2
+      title:
+        - fr: Les racourcis clavier
+    - directory:
+      level: 2
+      title:
+        - fr: La création d'un papillon
+    - directory:
+      level: 1
+      title:
+        - fr: Concepts
+    - directory:
+      level: 2
+      title:
+        - fr: L'éthique du libre
+    - directory:
+      level: 2
+      title:
+        - fr: Images vectorielles et bitmaps
+    - directory:
+      level: 2
+      title:
+        - fr: Choix des polices de caractère
+    - directory:
+      level: 2
+      title:
+        - fr: Choix des couleurs
+    - directory:
+      level: 2
+      title:
+        - fr: L'output sur papier
