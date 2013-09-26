@@ -7,6 +7,7 @@ toc:
       title:
         fr: Introduction
     - directory: introduction-requirements
+      parent: introduction
       level: 2
       title:
         fr: Les pré-requis
@@ -14,14 +15,17 @@ toc:
       status:
         fr: à relire
     - directory: ""
+      parent: introduction
       level: 2
       title:
         fr: Mise en route
     - directory: introduction-ergonomics
+      parent: introduction
       level: 2
       title:
         fr: L'ergonomie de travail
     - directory: introduction-freesoftware
+      parent: introduction
       level: 2
       title:
         fr: Le logiciel libre
@@ -32,64 +36,76 @@ toc:
       status:
         fr: draft à améliorer
     - directory: gimp-userinterface
+      parent: gimp
       level: 2
       title:
         fr: L'interface
     - directory: gimp-open_and_save
+      parent: gimp
       level: 2
       title:
         fr: Ouvrir et enregistrer une image
     - directory: gimp-exporting_and_importing
+      parent: gimp
       level: 2
       title:
         fr: Exporter et importer des images
     - directory: gimp-cropping
+      parent: gimp
       level: 2
       title:
         fr: Recadrer
       status:
         fr: à relire
     - directory: gimp-resize
+      parent: gimp
       level: 2
       title:
         fr: Changer les dimensions et les DPI
       status:
         fr: à relire + expliquer les DPI
     - directory: gimp-automatic_enhancement
+      parent: gimp
       level: 2
       title:
         fr: Corrections automatiques
       status:
         fr: à relire
     - directory: gimp-brightness_and_contrast
+      parent: gimp
       level: 2
       title:
         fr: Luminosité et contraste
     - directory: gimp-color_levels
+      parent: gimp
       level: 2
       title:
         fr: Niveaux
       status:
         fr: à relire
     - directory: ""
+      parent: gimp
       level: 2
       title:
         fr: La conversion en niveaux de gris
       status:
         fr: à écrire
     - directory: gimp-selecting
+      parent: gimp
       level: 2
       title:
         fr: Sélectionner et détourer
       status:
         fr: make it much shorter (and eventually separate in two sections)
     - directory: gimp-transparency
+      parent: gimp
       level: 2
       title:
         fr: La transparence
       status:
         fr: à améliorer
     - directory: gimp-red_eyes
+      parent: gimp
       level: 2
       title:
         fr: Supprimer les yeux rouges
@@ -98,35 +114,43 @@ toc:
       title:
         fr: Inkscape
     - directory: ""
+      parent: inkscape
       level: 2
       title:
         fr: Formes de base et lignes
     - directory: ""
+      parent: inkscape
       level: 2
       title:
         fr: Création et manipulation de courbes
     - directory: ""
+      parent: inkscape
       level: 2
       title:
         fr: Union et intersection de formes
     - directory: ""
+      parent: inkscape
       level: 2
       title:
         fr: Ouvrir des PDFs et extraire des éléments
     - directory: ""
+      parent: inkscape
       level: 2
       title:
         fr: Couleurs et degradés
     - directory: ""
+      parent: inkscape
       level: 2
       title:
         en: Snapping
         fr: Repères et noeuds magnétiques
     - directory: ""
+      parent: inkscape
       level: 2
       title:
         en: Tracing
     - directory: ""
+      parent: inkscape
       level: 2
       title:
         fr: Output pour le web
@@ -135,66 +159,82 @@ toc:
       title:
         fr: Scribus
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: Esquisse et produit final
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: Esquisse et produit final
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: Le document et la page
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: Les repères
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: La palette des propriétés
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: Les cadres texte
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: La typographie
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: Les cadres d'image
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: Formes et éléments vectoriels
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: Les listes
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: Les modèles, les gabarits et l'album
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: Les couleurs
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: Produire des PDFs
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: L'interface
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: Les racourcis clavier
     - directory: ""
+      parent: scribus
       level: 2
       title:
         fr: La création d'un papillon
@@ -203,23 +243,28 @@ toc:
       title:
         fr: Concepts
     - directory: ""
+      parent: concepts
       level: 2
       title:
         fr: L'éthique du libre
     - directory: ""
+      parent: concepts
       level: 2
       title:
         fr: Images vectorielles et bitmaps
     - directory: ""
+      parent: concepts
       level: 2
       title:
         fr: Choix des polices de caractère
     - directory: ""
+      parent: concepts
       level: 2
       title:
         fr: Choix des couleurs
       notes: Also add something about gimp and cmyk (http://fr.flossmanuals.net/initiation-gimp/ch043_mode-colorimetrique) and generally about cmyk
     - directory: ""
+      parent: concepts
       level: 2
       title:
         fr: L'output sur papier
