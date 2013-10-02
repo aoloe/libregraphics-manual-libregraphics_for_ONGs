@@ -154,20 +154,21 @@ toc:
       level: 2
       title:
         fr: Output pour le web
-    - directory: ""
+    - directory: "scribus"
       level: 1
       title:
         fr: Scribus
-    - directory: ""
+    - directory: "scribus-from_draft_to_product"
       parent: scribus
       level: 2
       title:
-        fr: Esquisse et produit final
-    - directory: ""
+        fr: De l'esquisse au produit final
+        en: From the draft sketches to the final products
+    - directory: "scribus-steps_in_dtp"
       parent: scribus
       level: 2
       title:
-        fr: Esquisse et produit final
+        fr: Étapes essentielles dans la mise en page
     - directory: ""
       parent: scribus
       level: 2
@@ -183,22 +184,27 @@ toc:
       level: 2
       title:
         fr: La palette des propriétés
+    - directory: "scribus-frames_and_sources"
+      parent: scribus
+      level: 2
+      title:
+        fr: Les cadres et les sources
     - directory: ""
       parent: scribus
       level: 2
       title:
         fr: Les cadres texte
-    - directory: ""
+    - directory: "scribus-frame_text"
       parent: scribus
       level: 2
       title:
         fr: La typographie
-    - directory: ""
+    - directory: "scribus-frame_image"
       parent: scribus
       level: 2
       title:
         fr: Les cadres d'image
-    - directory: ""
+    - directory: "scribus-vector_image"
       parent: scribus
       level: 2
       title:
@@ -252,6 +258,11 @@ toc:
       level: 2
       title:
         fr: Images vectorielles et bitmaps
+    - directory: ""
+      parent: concepts
+      level: 2
+      title:
+        fr: Formats de fichiers
     - directory: ""
       parent: concepts
       level: 2

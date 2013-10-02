@@ -12,3 +12,4 @@ Changer les dimensions d'une image peut intervenir à divers moments : besoin de
 Dans cette solution, l'image est réduite de façon proportionnelle. En général, il est déconseillé d'augmenter la taille de l'image de manière à en préserver la qualité.
 
 > Si vous souhaitez modifier la résolution, nous vous conseillons d'utiliser la fenêtre _Image > Taille de l'impression_.
+> Remarque: la résolution n'a pas d'influence directe sur la qualité de l'image. Ce qui compte est le nombre de pixels et la taille à laquelle vous utilisez l'image pour l'impression ou pour l'affichage sur una page web.
