@@ -1,0 +1,2 @@
+- we may want a ligher sentence to start the chapter.
+- start with a right page, and add a second left page. on the third page add one (or multiple) screenshot (and picture of results?)

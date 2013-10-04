@@ -20,6 +20,9 @@ This manual has been created with a one-day workshop on graphics in mind.
   - bitmaps should be on layers named `web` and `print`
   - all language specific elements should go into a layer named after the language (fr, en, ...)
 
+#TODO
+- remove all typographic signs (’, «) and replace them in the sources with the normal ones.
+- remove the spaces before the :;... (they can be correctly readded when importing into scribus. or add them as non breaking space instead of normal spaces)
 
 
 # TOOLS

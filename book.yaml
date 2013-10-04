@@ -169,7 +169,7 @@ toc:
       level: 2
       title:
         fr: Étapes essentielles dans la mise en page
-    - directory: ""
+    - directory: "scribus-documents_and_pages"
       parent: scribus
       level: 2
       title:
@@ -179,6 +179,11 @@ toc:
       level: 2
       title:
         fr: Les repères
+    - directory: "scribus-gui"
+      parent: scribus
+      level: 2
+      title:
+        fr: L'interface
     - directory: ""
       parent: scribus
       level: 2
@@ -229,17 +234,12 @@ toc:
       level: 2
       title:
         fr: Produire des PDFs
-    - directory: ""
-      parent: scribus
-      level: 2
-      title:
-        fr: L'interface
-    - directory: ""
+    - directory: "scribus-keyboard_shortcuts"
       parent: scribus
       level: 2
       title:
         fr: Les racourcis clavier
-    - directory: ""
+    - directory: "scribus-threefold_leaflet"
       parent: scribus
       level: 2
       title:

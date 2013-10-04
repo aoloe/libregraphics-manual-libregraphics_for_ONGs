@@ -1,0 +1,4 @@
+- the original files are in ~/docs/activite/libregraphics/lgm/rmll_2012/scribus_magazine
+- find a good way to show it in html:
+  - a table?
+  - an image?
