@@ -6,6 +6,8 @@ toc:
       level: 1
       title:
         fr: Introduction
+      status:
+        fr: to be written
     - directory: introduction-requirements
       parent: introduction
       level: 2
@@ -14,11 +16,13 @@ toc:
         de: Voraussetzungen
       status:
         fr: à relire
-    - directory: ""
+    - directory: "introduction-getting_started"
       parent: introduction
       level: 2
       title:
         fr: Mise en route
+      status:
+        fr: draft started
     - directory: introduction-ergonomics
       parent: introduction
       level: 2
@@ -113,6 +117,10 @@ toc:
       level: 1
       title:
         fr: Inkscape
+    - directory: inkscape-userinterface
+      level: 2
+      title:
+        fr: L'interface
     - directory: ""
       parent: inkscape
       level: 2
@@ -184,26 +192,16 @@ toc:
       level: 2
       title:
         fr: L'interface
-    - directory: ""
-      parent: scribus
-      level: 2
-      title:
-        fr: La palette des propriétés
     - directory: "scribus-frames_and_sources"
       parent: scribus
       level: 2
       title:
         fr: Les cadres et les sources
-    - directory: ""
-      parent: scribus
-      level: 2
-      title:
-        fr: Les cadres texte
     - directory: "scribus-frame_text"
       parent: scribus
       level: 2
       title:
-        fr: La typographie
+        fr: Les cadres texte
     - directory: "scribus-frame_image"
       parent: scribus
       level: 2
@@ -214,6 +212,16 @@ toc:
       level: 2
       title:
         fr: Formes et éléments vectoriels
+    - directory: ""
+      parent: scribus
+      level: 2
+      title:
+        fr: La palette des propriétés
+    - directory: ""
+      parent: scribus
+      level: 2
+      title:
+        fr: La typographie
     - directory: ""
       parent: scribus
       level: 2

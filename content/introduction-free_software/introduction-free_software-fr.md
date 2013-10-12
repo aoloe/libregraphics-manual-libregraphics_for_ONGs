@@ -4,7 +4,7 @@ Gimp, Inkscape et Scribus sont des logiciels gratuits et facilitent donc leur ad
 
 Et vous avez tout à fait le droit de les utiliser dans un contexte professionnel.
 
-Pour ce qui concerne Gimp, des dons peuvent cependant être faits à Gimp sous formes monétaires par le biais du site officiel (gimp.org)
+Pour ce qui concerne Gimp, des dons peuvent être faits à Gimp sous formes monétaires par le biais du site officiel (gimp.org)
 
 Pour chacun de ces projects vous pouvez aussi faire des dons sous forme _informatique_ en participant à l'amélioration des logiciels. C'est ainsi qu'il progresse, par les petits apports de chacun.
 

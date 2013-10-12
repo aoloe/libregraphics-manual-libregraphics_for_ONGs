@@ -2,11 +2,7 @@
 
 Dans ce livre, nous n'attendons de vous aucune connaissance théorique préalable sur l'infographie en général. Bien sûr, une pratique créative des **arts visuels** (photographie, dessin, etc.), ou une expérience dans le monde de l'imprimerie vous aidera à faire de belles choses et à comprendre les enjeux techniques, mais tout cela n'est pas nécessaire pour appendre à utiliser Scribus.
 
-Cependant, pour bien apprécier ce manuel ainsi que pour votre **confort de travail**, utilisez une souris avec au moins deux boutons et une molette (évitez le pavé tactile ou _trackpad_ d'un ordinateur portable), ainsi qu'un clavier confortable. Cela vous permettra de garder une main sur la souris et l'autre sur les touches du clavier. Cette combinaison est très fréquente et pourra vous faire gagner un temps d'exécution précieux.
-
-Si vous avez un peu de courage, vous pouvez tenter d'apprendre les raccourcis clavier. Ce manuel y fait très rarement référence, et utilise plutôt les menus pour expliquer les tâches. Mais en jetant un oeil attentif à ces menus, vous remarquerez que le raccourci clavier équivalent est noté à sa droite. C'est une façon simple et progressive d'améliorer sa productivité.
-
-Par ailleurs, assurez-vous de connaître les rudiments de la manipulation de la souris et du clavier ainsi que des notions de base de la bureautique, de la navigation sur Internet et de la manipulation de fichiers.
+Côté ordinateur, assurez-vous de connaître les rudiments de la manipulation de la souris et du clavier ainsi que des notions de base de la bureautique, de la navigation sur Internet et de la manipulation de fichiers.
 
 Quels que soient l'ordinateur et le système d'exploitation que vous utilisez (Windows, MacOS, Linux...), vérifiez que vous êtes à l'aise avec les opérations suivantes :
 
