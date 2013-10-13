@@ -118,10 +118,11 @@ toc:
       title:
         fr: Inkscape
     - directory: inkscape-userinterface
+      parent: inkscape
       level: 2
       title:
         fr: L'interface
-    - directory: ""
+    - directory: inkscape-forms_and_lines
       parent: inkscape
       level: 2
       title:
@@ -131,6 +132,11 @@ toc:
       level: 2
       title:
         fr: Création et manipulation de courbes
+    - directory: inkscape-colors
+      parent: inkscape
+      level: 2
+      title:
+        fr: Couleurs
     - directory: ""
       parent: inkscape
       level: 2
