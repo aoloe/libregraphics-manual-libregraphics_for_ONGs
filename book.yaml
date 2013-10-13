@@ -122,7 +122,7 @@ toc:
       level: 2
       title:
         fr: L'interface
-    - directory: inkscape-forms_and_lines
+    - directory: inkscape-shapes_and_lines
       parent: inkscape
       level: 2
       title:
