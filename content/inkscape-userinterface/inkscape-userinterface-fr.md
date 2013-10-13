@@ -2,8 +2,7 @@
 
 ## La fenêtre principale
 
-[](inkscape-userinterface-fr.png)
-
+![](inkscape-userinterface-fr.png)
 
 ## Les outils
 
