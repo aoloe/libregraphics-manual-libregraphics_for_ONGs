@@ -1,6 +1,6 @@
 title:
     - en: Libre Graphics for ONGs 
-    - fr: Graphisme libre pour  NGOs 
+    - fr: Graphisme libre pour l'associatif
 toc:
     - directory: introduction
       level: 1
@@ -12,7 +12,7 @@ toc:
       parent: introduction
       level: 2
       title:
-        fr: Les pré-requis
+        fr: Les prérequis
         de: Voraussetzungen
       status:
         fr: à relire
@@ -127,22 +127,23 @@ toc:
       level: 2
       title:
         fr: Formes de base et lignes
-    - directory: ""
-      parent: inkscape
-      level: 2
-      title:
-        fr: Création et manipulation de courbes
     - directory: inkscape-colors
       parent: inkscape
       level: 2
       title:
         fr: Couleurs
-    - directory: ""
+    - directory: inkscape-path_operations
       parent: inkscape
       level: 2
       title:
         fr: Union et intersection de formes
-    - directory: ""
+    - directory: inkscape-alignment
+      parent: inkscape
+      level: 2
+      title:
+        en: Alignment and Snapping
+        fr: Alignement, repères et noeuds magnétiques
+    - directory: inkscape-pdf_opening
       parent: inkscape
       level: 2
       title:
@@ -151,23 +152,12 @@ toc:
       parent: inkscape
       level: 2
       title:
-        fr: Couleurs et degradés
-    - directory: ""
-      parent: inkscape
-      level: 2
-      title:
-        en: Snapping
-        fr: Repères et noeuds magnétiques
-    - directory: ""
-      parent: inkscape
-      level: 2
-      title:
         en: Tracing
-    - directory: ""
+    - directory: inkscape-output
       parent: inkscape
       level: 2
       title:
-        fr: Output pour le web
+        fr: Output pour le web et le print
     - directory: "scribus"
       level: 1
       title:
@@ -183,6 +173,11 @@ toc:
       level: 2
       title:
         fr: Étapes essentielles dans la mise en page
+    - directory: "scribus-gui"
+      parent: scribus
+      level: 2
+      title:
+        fr: L'interface
     - directory: "scribus-documents_and_pages"
       parent: scribus
       level: 2
@@ -193,11 +188,6 @@ toc:
       level: 2
       title:
         fr: Les repères
-    - directory: "scribus-gui"
-      parent: scribus
-      level: 2
-      title:
-        fr: L'interface
     - directory: "scribus-frames_and_sources"
       parent: scribus
       level: 2
@@ -228,6 +218,11 @@ toc:
       level: 2
       title:
         fr: La typographie
+    - directory: ""
+      parent: scribus
+      level: 2
+      title:
+        fr: Les styles
     - directory: ""
       parent: scribus
       level: 2
