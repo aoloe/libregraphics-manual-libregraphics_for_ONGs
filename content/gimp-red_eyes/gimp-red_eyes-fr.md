@@ -8,7 +8,7 @@ La suppression peut être effectuée par certains appareils photo, mais pas tous
 3. Utilisez alors le menu _Sélection &gt; Adoucir_ pour effet d'obtenir une délimitation de l'effet à venir. Selon la dimension de votre sélection, la taille d'adoucissement peut varier ; pour l'instant notez 2 pixels.
 4. Allez ensuite dans le menu _Filtres &gt; Amélioration &gt; Suppression des yeux rouges_. Si tout le rouge de la pupille n'est pas correctement pris en compte, utilisez le réglage de Seuil pour améliorer le résultat.
 
-![](gimp-redeyes_01-web.png) ![](gimp-red_eyes_02-web.png)  
-![](gimp-redeyes_03-web.png) ![](gimp-red_eyes_04-web.png)
+![](gimp-red_eyes_01-web.png) ![](gimp-red_eyes_02-web.png)  
+![](gimp-red_eyes_03-web.png) ![](gimp-red_eyes_04-web.png)
 
 > La suppression des yeux rouges donne toujours un résultat qui semble étrange car la pupille a évidemment été trop dilatée lors de la prise de vue au Flash. Mais il est difficile de faire des miracles. Vous pourrez éventuellement tenter des réduire la zone avec l'outil de Déformation ! 
