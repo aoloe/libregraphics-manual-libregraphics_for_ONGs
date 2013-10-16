@@ -28,7 +28,7 @@ toc:
       level: 2
       title:
         fr: L'ergonomie de travail
-    - directory: introduction-freesoftware
+    - directory: introduction-free_software
       parent: introduction
       level: 2
       title:
@@ -68,7 +68,7 @@ toc:
         fr: Changer les dimensions et les DPI
       status:
         fr: à relire + expliquer les DPI
-    - directory: gimp-automatic_enhancement
+    - directory: gimp-automatic_enhancements
       parent: gimp
       level: 2
       title:

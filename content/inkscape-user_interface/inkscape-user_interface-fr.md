@@ -2,7 +2,7 @@
 
 ## La fenêtre principale
 
-![](inkscape-userinterface-fr.png)
+![](inkscape-user_interface-fr.png)
 
 - La _barre d'outils_ sur la gauche permet d'activer les outils qui créent et manipulent les objets.
 - La _barre de commandes_ juste en dessous des menus permet d'exécuter des actions sur le document ou les objets.
