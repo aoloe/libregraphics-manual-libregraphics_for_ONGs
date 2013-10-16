@@ -22,6 +22,5 @@ Par exemple, dans le cas d'un dépliant à trois volets en plis roulés, prenez 
 
 N'hésitez pas à recommencer à zéro ou créer de multiples variations!
 
-[esquisse.jpg]
 ![L'esquisse d'un dépliant](esquisse.jpg)
 
