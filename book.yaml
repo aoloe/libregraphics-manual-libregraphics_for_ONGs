@@ -39,7 +39,7 @@ toc:
         fr: Gimp
       status:
         fr: draft à améliorer
-    - directory: gimp-userinterface
+    - directory: gimp-user_interface
       parent: gimp
       level: 2
       title:
@@ -117,7 +117,7 @@ toc:
       level: 1
       title:
         fr: Inkscape
-    - directory: inkscape-userinterface
+    - directory: inkscape-user_interface
       parent: inkscape
       level: 2
       title:
@@ -173,7 +173,7 @@ toc:
       level: 2
       title:
         fr: Étapes essentielles dans la mise en page
-    - directory: "scribus-gui"
+    - directory: "scribus-user_interface"
       parent: scribus
       level: 2
       title:
