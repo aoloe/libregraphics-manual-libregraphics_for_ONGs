@@ -87,7 +87,7 @@ toc:
         fr: Niveaux
       status:
         fr: à relire
-    - directory: ""
+    - directory: gimp-grayscale
       parent: gimp
       level: 2
       title:

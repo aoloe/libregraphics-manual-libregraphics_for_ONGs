@@ -72,9 +72,6 @@ En général, cette seconde méthode sera utilisée pour suivre le contour d'un 
 
 L'utilisation de ce genre d'outil est fortement facilitée par l'utilisation d'une tablette graphique, même de premier prix.
 
-
-  
-
 # Suivre les contours d'un objet
 
 Cependant lorsque les outils de détection pas couleur ne fonctionnent pas et quand les contours sont complexes et que la manipulation de la souris est trop compliquée, il est nécessaire de changer de stratégie. Le _Ciseau Intelligent_ est un outil qui va s'accrocher aux contours qu'il détecte pour nous aider à détourer une forme.

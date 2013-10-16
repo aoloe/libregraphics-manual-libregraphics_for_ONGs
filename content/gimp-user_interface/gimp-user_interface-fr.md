@@ -10,9 +10,9 @@ La fenêtre d'image est essentielle dans Gimp, ce sera le cœur du travail. Gimp
 
 ## Les outils
 
-Les outils sont placés au démarrage dans la partie gauche du logiciel et sont présentés sous forme d'une liste d'icône. En plaçant la souris sur le bord droit de la fenêtre d'outil, vous pourrez l'élargir à souhait. Les icônes se réorganisent alors pour occuper la place disponible.  
+Les outils sont placés au démarrage dans la partie gauche du logiciel et sont présentés sous forme d'une liste d'icônes. En plaçant la souris sur le bord droit de la fenêtre d'outil, vous pourrez l'élargir à souhait. Les icônes se réorganisent alors pour occuper la place disponible.  
 
-Les outils rauont besoin d'être configurés pour s'adapter à vos besoins. Il faudra donc en permanence avoir en même temps sous les yeux la fenêtre des options d'outil qui peut être placée directement sous les outils (si vous avez choisir d'avoir une boîte à outils suffisamment large) simplement en la faisant glisser dessous.
+Les outils auront besoin d'être configurés pour s'adapter à vos besoins. Il faudra donc en permanence avoir en même temps sous les yeux la fenêtre des options d'outil qui peut être placée directement sous les outils (si vous avez choisir d'avoir une boîte à outils suffisamment large) simplement en la faisant glisser dessous.
 
 ## Les menus
 
