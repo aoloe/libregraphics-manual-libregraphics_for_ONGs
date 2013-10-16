@@ -5,6 +5,4 @@
 - La pipette ![](inkscape-tool-pipette.png) permet d'appliquer à l'objet courant la couleur d'un autre objet.
 - ![](inkscape-tool-fill_and_stroke.png) Dans la palette des _Remplissages et contours_ vous trouvez un résumé des caractéristique de l'objet courant et vous pouvez appliquer des valeurs spécifiques.
 
-![](inkscape-window-fill_and_stroke-fr.png)
-
 > Attention: Les _dégradés_ sont un moyen efficace pour donner du dynamisme à dessins, mais ils cachent aussi des dangers: les couleurs étant calculés automatiquement, le résultat à l'impression ne correspond pas toujours à l'aperçu à l'écran et ils ne sont pas toujours interprétés correctement par les imprimeurs. À utiliser avec parcimonie.
