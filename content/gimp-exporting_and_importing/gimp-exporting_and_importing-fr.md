@@ -1,6 +1,6 @@
 ## Exporter et importer des images
 
-Vous allez devoir exporter l'image pour pouvoir l'utiliser d'autres logiciels ou la transmettre à d'autres personnes pour être publiée.
+Vous allez devoir exporter l'image pour pouvoir l'utiliser dans d'autres logiciels ou la transmettre à d'autres personnes pour la publier.
 
 L'enregistrement en JPEG ou en PNG produira des images beaucoup plus légères que le format XCF mais vous allez devoir accepté une perte d'information et -- selon les choix que vous allez faire -- aussi de qualité.
 
@@ -30,9 +30,9 @@ Le format de fichier standard Open Raster (ORA) pousse par l'équipe de Gimp, My
 
 Le formats Photoshop (.psd) reste certainement le plus couramment utilisé après le JPEG.
 
-Il s'agit du format natif de Photoshop et aucun autre logiciel n'est sensé le supporter. L'équipe de Gimp a fait cet effort d'avoir une compression partielle de ces images. Les calques, les masques, les transparences, les textes seront bien conservés, mais des détails peuvent varier ici ou là dans l'aspect.
+Il s'agit du format natif de Photoshop et aucun autre logiciel n'est sensé le supporter. L'équipe de Gimp a fait cet effort d'avoir une comprension partielle de ces images. Les calques, les masques, les transparences, les textes seront bien conservés, mais des détails peuvent varier ici ou là dans l'aspect.
 
-Notez que Gimp peut aussi enregistrer au format PSD si vous avez besoin de transmettre votre composition à quelqu'un que possède Photoshop, qui, lui, ne supporte ni le format XCF, ni le format ORA.
+Notez que Gimp peut aussi enregistrer au format PSD si vous avez besoin de transmettre votre composition à quelqu'un qui possède Photoshop, qui, lui, ne supporte ni le format XCF, ni le format ORA.
 
 ## Les fichiers PDF
 

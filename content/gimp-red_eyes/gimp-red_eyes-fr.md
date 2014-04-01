@@ -1,4 +1,5 @@
 ## Supprimer les yeux rouges
+
 La suppression peut être effectuée par certains appareils photo, mais pas tous. Réaliser cette correction dans Gimp est assez simple et rapide, mais sera fastidieuse si elle doit être répétée sur de nombreuses images.
 
 ### Procédure
@@ -11,4 +12,4 @@ La suppression peut être effectuée par certains appareils photo, mais pas tous
 ![](gimp-red_eyes_01-web.png) ![](gimp-red_eyes_02-web.png)  
 ![](gimp-red_eyes_03-web.png) ![](gimp-red_eyes_04-web.png)
 
-> La suppression des yeux rouges donne toujours un résultat qui semble étrange car la pupille a évidemment été trop dilatée lors de la prise de vue au Flash. Mais il est difficile de faire des miracles. Vous pourrez éventuellement tenter des réduire la zone avec l'outil de Déformation ! 
+> La suppression des yeux rouges donne toujours un résultat qui semble étrange car la pupille a évidemment été trop dilatée lors de la prise de vue au Flash. Mais il est difficile de faire des miracles. Vous pourrez éventuellement tenter des réduire la zone avec l'outil de _Déformation_&nbsp;! 

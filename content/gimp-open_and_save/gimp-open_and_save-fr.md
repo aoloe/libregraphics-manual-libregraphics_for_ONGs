@@ -23,4 +23,7 @@ Pour enregistrer les images utilisez le menu _Fichier &gt; Enregistrer_.
 
 Les fichiers XCF sont cependant assez lourds et s'ils sont pratiques pendant que vous travaillez sur vos images, ils ne peuvent que rarement servir de base à l'échange d'image sur le web ou par mail. Dans ce cas, vous allez devoir exporter l'image vers d'autres formats.
 
-XCF est le format natif de Gimp : cela signifie qu'il faudra nécessairement utiliser Gimp pour ouvrir ultérieurement cette image.
+XCF est le format natif de Gimp. Cela a deux conséquences&nbsp;:
+
+- Il faudra nécessairement utiliser Gimp pour ouvrir ultérieurement les image XCF.
+- Il n'est pas coonseillé d'uiliser le format XCF, pour la publcation de l'image dans son état définitif. Il est par contre une option excellente pour distribuer l'image à des collaborateurs qui connaissent Gimp et qui apporter des modifications à l'image.

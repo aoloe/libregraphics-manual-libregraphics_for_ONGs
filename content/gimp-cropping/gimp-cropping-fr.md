@@ -1,6 +1,11 @@
 ## Recadrer
 
-Recadrer une image est l'opération qui consiste à réduire une image en « découpant » les parties externes qui ne sont pas intéressantes. Recadrer n'est pas une action techniquement compliquée. Elle implique surtout de bien regarder l'image pour faire ressortir l'essentiel.
+Recadrer une image est l'opération qui consiste à réduire une image en « découpant » les parties externes qui ne sont pas intéressantes. Recadrer n'est pas une action techniquement compliquée.
+
+Le recadrement a essentiellement deux objectifs&nbsp;:
+
+- enlever des parties de l'image pour faire ressortir l'essentiel.
+- adapter la forme de l'image à des proportions données (portrait, paysage, 4:3, ...)
 
 ### Procédure
 

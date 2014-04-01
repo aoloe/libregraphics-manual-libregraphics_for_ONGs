@@ -8,4 +8,4 @@ Ces opérations ne posent généralement pas de problème sauf dans certains cas
 
 Pour remédier à cela, il suffit d'utiliser le menu _Calque &gt; Transparence &gt; Ajouter un canal Alpha_, de recommencer la suppression et tout devrait parfaitement se passer.
 
-Par défaut, les images au format JPEG n'ont pas un fond transparent.
+Par défaut, les images au format JPEG et TIFF n'ont pas un fond transparent.

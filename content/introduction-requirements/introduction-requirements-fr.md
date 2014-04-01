@@ -1,6 +1,6 @@
 # Quelques pré-requis pour utiliser Gimp, Inkscape et Scribus
 
-Dans ce livre, nous n'attendons de vous aucune connaissance théorique préalable sur l'infographie en général. Bien sûr, une pratique créative des **arts visuels** (photographie, dessin, etc.), ou une expérience dans le monde de l'imprimerie vous aidera à faire de belles choses et à comprendre les enjeux techniques, mais tout cela n'est pas nécessaire pour appendre à utiliser Gimp, Inkscape ou Scribus.
+Dans ce manuel, nous n'attendons de vous aucune connaissance théorique préalable sur l'infographie en général. Bien sûr, une pratique créative des _arts visuels_ (photographie, dessin, etc.), ou une expérience dans le monde de l'imprimerie vous aidera à faire de belles choses et à comprendre les enjeux techniques, mais tout cela n'est pas nécessaire pour appendre à utiliser Gimp, Inkscape ou Scribus.
 
 Côté ordinateur, assurez-vous de connaître les rudiments de la manipulation de la souris et du clavier ainsi que des notions de base de la bureautique, de la navigation sur Internet et de la manipulation de fichiers.
 
@@ -30,4 +30,4 @@ Navigation:
 
 - Utiliser des liens hypertextes sur le web.
 
-Si cette liste vous fait un peu peur, ne vous inquiétez pas : vous savez probablement déjà faire ces actions sans les avoir jamais nommées. Si vous avez un doute, une recherche sur Internet ou la consultation d'un livre d'initiation vous aidera sûrement à clarifier ces notions, et vous avez probablement des proches qui pourront vous montrer ces quelques manipulations. Par ailleurs, tout apprentissage nécessite de se jeter à l'eau : **la pratique** et **l'aisance** viennent aussi en utilisant le logiciel.
+Si cette liste vous fait un peu peur, ne vous inquiétez pas : vous savez probablement déjà faire ces actions sans les avoir jamais nommées. Si vous avez un doute, une recherche sur Internet ou la consultation d'un livre d'initiation vous aidera sûrement à clarifier ces notions, et vous avez probablement des proches qui pourront vous montrer ces quelques manipulations. Par ailleurs, tout apprentissage nécessite de se jeter à l'eau : _la pratique_ et _l'aisance_ viennent aussi en utilisant le logiciel.

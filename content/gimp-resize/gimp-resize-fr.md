@@ -9,7 +9,9 @@ Changer les dimensions d'une image peut intervenir à divers moments : besoin de
 3.    Changez alors la dimension d'un côté et l'autre s'adaptera automatiquement. N'oubliez pas de vérifier dans la liste déroulante à droite que l'unité choisie est celle dans laquelle vous exprimez vos valeurs. En image numérique, il est de coutume de parler en pixel, paramètre par défaut de Gimp.
 4.    Validez la fenêtre pour appliquer.
 
-Dans cette solution, l'image est réduite de façon proportionnelle. En général, il est déconseillé d'augmenter la taille de l'image de manière à en préserver la qualité.
+Dans cette solution, l'image est réduite de façon proportionnelle.
+
+En général, il est déconseillé d'augmenter la taille de l'image de manière à en préserver la qualité.
 
 > Si vous souhaitez modifier la résolution, nous vous conseillons d'utiliser la fenêtre _Image > Taille de l'impression_.
 > Remarque: la résolution n'a pas d'influence directe sur la qualité de l'image. Ce qui compte est le nombre de pixels et la taille à laquelle vous utilisez l'image pour l'impression ou pour l'affichage sur una page web.
